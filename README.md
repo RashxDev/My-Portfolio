@@ -11,7 +11,7 @@ It represents my work in:
 - Personal branding
 
 ## 🔗 Live Site
-Visit my portfolio here: [https://rashxdev.github.io](https://rashxdev.github.io)
+Visit my portfolio here: https://github.com/RashxDev/My-Portfolio
 
 ## 📁 Features
 - Responsive layout
